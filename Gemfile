@@ -16,7 +16,7 @@ gem 'kramdown'
 gem 'builder'
 gem 'bootstrap-sass'
 gem 'jquery-middleman'
-gem 'nokogiri', '~> 1.7'
+gem 'nokogiri', '~> 1.10'
 gem 'haml', '~> 4.0.7'
 
 group :development do
